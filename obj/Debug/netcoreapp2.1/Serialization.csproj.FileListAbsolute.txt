@@ -1,0 +1,11 @@
+F:\dotnet1\Serialization\Serialization\bin\Debug\netcoreapp2.1\Serialization.deps.json
+F:\dotnet1\Serialization\Serialization\bin\Debug\netcoreapp2.1\Serialization.runtimeconfig.json
+F:\dotnet1\Serialization\Serialization\bin\Debug\netcoreapp2.1\Serialization.runtimeconfig.dev.json
+F:\dotnet1\Serialization\Serialization\bin\Debug\netcoreapp2.1\Serialization.dll
+F:\dotnet1\Serialization\Serialization\bin\Debug\netcoreapp2.1\Serialization.pdb
+F:\dotnet1\Serialization\Serialization\obj\Debug\netcoreapp2.1\Serialization.csprojAssemblyReference.cache
+F:\dotnet1\Serialization\Serialization\obj\Debug\netcoreapp2.1\Serialization.csproj.CoreCompileInputs.cache
+F:\dotnet1\Serialization\Serialization\obj\Debug\netcoreapp2.1\Serialization.AssemblyInfoInputs.cache
+F:\dotnet1\Serialization\Serialization\obj\Debug\netcoreapp2.1\Serialization.AssemblyInfo.cs
+F:\dotnet1\Serialization\Serialization\obj\Debug\netcoreapp2.1\Serialization.dll
+F:\dotnet1\Serialization\Serialization\obj\Debug\netcoreapp2.1\Serialization.pdb
